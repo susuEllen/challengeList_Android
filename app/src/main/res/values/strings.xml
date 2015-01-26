@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChallengeList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="add_challenge_name">Challenge Title</string>
+    <string name="add_challenge_detail">How to Win?</string>
+    <string name="add_challenge_name_hint">What you wanna call it?</string>
+    <string name="add_challenge_detail_hint">Short and sweet please..</string>
+    <string name="add_challenge_button">Challenge!</string>
+
+
+</resources>
